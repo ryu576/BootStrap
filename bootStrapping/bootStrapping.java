@@ -17,12 +17,7 @@ import java.util.Random;
 
 
 public class bootStrapping {
-    public static String server = "myhost.com";
-    public static String port = "5480";
-    public static String dbName = "dbname";
-    public static String url = "jdbc:netezza://" + "nantz15.nielsen.com" + "/" + "scratch";
-    public static String user = "nnviewer";// "pandro51";
-    public static String pwd = "lookup";// "rohit123";
+    
     
     public static int numsims=1000;
     public static void main(String[] args) {
